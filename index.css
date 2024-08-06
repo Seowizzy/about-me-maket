@@ -114,6 +114,7 @@ body {
 }
 
 .headline {
+    font-family: "Roboto", sans-serif;
     text-align: center;
     margin: 0;
     font-size: 32px;
@@ -228,6 +229,7 @@ body {
     height: 4px;
     rotate: 0.06 deg;
 	background: linear-gradient(90deg, #34547A 79%, #C4C4C4 21%);
+    border: 0;
 }
 
 .my__work {

@@ -265,27 +265,33 @@ body {
 }
 
 .projects__foto__list {
-    width: 460px;
+    width: 480px;
     height: 480px;
     border: none;
+    background-image: url(asstes/png/list.png);
     cursor: pointer;
-    padding: 0;
 }
 
 .projects__foto__list:hover {
-    
+    background-image: url(asstes/svg/view.svg);
+    background-repeat: no-repeat;
+    background-color: rgba(52, 84, 122, 0.8);
+    background-position: center;
 }
 
   .projects__foto__work {
     width: 480px;
     height: 480px;
     border: none;
+    background-image: url(asstes/png/work.png);
     cursor: pointer;
-    padding: 0;
 }
 
 .projects__foto__work:hover {
+    background-image: url(asstes/svg/view.svg);
+    background-repeat: no-repeat;
     background-color: rgba(52, 84, 122, 0.8);
+    background-position: center;
 }
 
 .web__site {
@@ -379,34 +385,3 @@ body {
 .footer__menu__svg {
     margin: auto;
 }
-
-
-/* .projects__foto__list {
-    width: 480px;
-    height: 480px;
-    border: none;
-    background-image: url(asstes/png/list.png);
-    cursor: pointer;
-}
-
-.projects__foto__list:hover {
-    background-image: url(asstes/svg/view.svg);
-    background-repeat: no-repeat;
-    background-color: rgba(52, 84, 122, 0.);
-    background-position: center;
-}
-
-  .projects__foto__work {
-    width: 480px;
-    height: 480px;
-    border: none;
-    background-image: url(asstes/png/work.png);
-    cursor: pointer;
-}
-
-.projects__foto__work:hover {
-    background-image: url(asstes/svg/view.svg);
-    background-repeat: no-repeat;
-    background-color: rgba(52, 84, 122, 0.8);
-    background-position: center;
-} */

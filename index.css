@@ -25,9 +25,8 @@ body {
 .header {
   width: 1125px;
   display: flex;
-  flex-direction: row;
-  justify-content: center;
-  margin: 79px auto 0;
+  justify-content: space-between;
+  margin: auto;
 }
 
 .header__logo {
@@ -39,7 +38,6 @@ body {
 }
 
 .header__text {
-  margin-left: 398px;
   display: flex;
   flex-direction: row;
   gap: 42px;

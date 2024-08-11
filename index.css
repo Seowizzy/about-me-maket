@@ -114,7 +114,6 @@ body {
 .about__me__subtitle {
   line-height: 26.25px;
   text-align: center;
-  width: 500px;
   color: rgba(114, 114, 114, 1);
 }
 
@@ -527,7 +526,6 @@ body {
   }
 
   .about__me__subtitle {
-    width: 323px;
     margin: 0;
     margin-top: 42px;
     margin-left: auto;
@@ -683,8 +681,6 @@ body {
   }
 
   .web__site__subtitle {
-    width: 323px;
-    height: 98px;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 400;

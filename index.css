@@ -656,7 +656,6 @@ body {
   }
 
   .projects {
-    flex-direction: column;
     flex-wrap: wrap;
   }
 
@@ -670,7 +669,6 @@ body {
     flex-wrap: wrap;
     width: 50%;
     position: relative;
-    height: 50%;
   }
 
   .projects__foto__view {
